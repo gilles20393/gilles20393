@@ -1,7 +1,7 @@
 
 <div align="right">
   <h2 align="right" ><a href="https://github.com/gilles20393">Gilles20393</a></h2>
-  <img align="right" width="130" src="![](https://github.com/gilles20393/user.gif)" />
+  <img align="right" width="130" src="https://github.com/gilles20393/gilles20393/blob/master/user.gif" />
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=117959997&count=50&width=375" alt="Spotify recently played"  />
 </div>
 
