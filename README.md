@@ -1,4 +1,4 @@
-<h1  align="right" ><a href="https://github.com/G1-R0">Gilles Rousseaux</a></h1>
+<h2  align="right" ><a href="https://github.com/G1-R0">Gilles Rousseaux</a></h2>
 <a href="https://github.com/G1-R0"><img align="right" width="185" src="https://github.com/G1-R0/G1-R0/blob/master/user.gif" /></a>
 
 
