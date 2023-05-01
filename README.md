@@ -38,7 +38,6 @@ class Person {
 
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=117959997&redirect=true"> <img align="right" width="185" src="https://spotify-github-profile.vercel.app/api/view?uid=117959997&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=ff9300&bar_color_cover=true"/> </a>
 
-
 <h2 align="center">Skills</h2>
 <p align="center">
   <a href="[https://github.com/G1-R0](https://github.com/G1-R0?tab=repositories)">
@@ -46,9 +45,11 @@ class Person {
   </a>
 </p>
 
-<div align="center" style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=G1-R0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" width="50%" alt="stats graph" style="height: 100%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=G1-R0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" width="50%" alt="languages graph" style="height: 100%;" />
+<br clear="right">
+
+<div align="center" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=G1-R0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=G1-R0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="250" alt="languages graph"  />
 </div>
 
 
