@@ -1,6 +1,10 @@
 <h2  align="right" ><a href="https://github.com/gilles20393">Gilles20393</a></h2>
 <img align="right" width="130" src="https://github.com/gilles20393/gilles20393/blob/master/user.gif" />
 
+<div align="right">
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=117959997&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=ff9300&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=117959997&redirect=true)
+</div>
+
 ```JavaScript
 class Attributes {
 
@@ -33,9 +37,9 @@ class Attributes {
 }
 ```
 
-<img align="right" width="130" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=117959997&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" href="https://spotify-github-profile.vercel.app/api/view.svg?uid=117959997&redirect=true" />
-
+<div align="right">
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=117959997&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=ff9300&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=117959997&redirect=true)
+</div>
 
 ###
 
