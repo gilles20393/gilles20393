@@ -35,7 +35,7 @@ class Person {
 
 ```
 
-<a href="[https://spotify-github-profile.vercel.app/api/view?uid=117959997&redirect=true](https://spotify-github-profile.vercel.app/api/view.svg?uid=117959997&redirect=true)"> <img align="right" width="185" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=117959997&cover_image=true&theme=default&show_offline=false&background_color=ff9300&interchange=true&bar_color=ff9300&bar_color_cover=true"/> </a>
+<a href="[https://spotify-github-profile.vercel.app/api/view?uid=117959997&redirect=true](https://spotify-github-profile.vercel.app/api/view.svg?uid=117959997&redirect=true)"> <img align="right" width="185" src="https://spotify-github-profile.vercel.app/api/view?uid=117959997&cover_image=true&theme=default&show_offline=false&background_color=282a36&interchange=false&bar_color=ff6e96"/> </a>
 
 <h2 align="center">Skills</h2>
 
