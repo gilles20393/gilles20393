@@ -35,9 +35,12 @@ class Person {
 
 ```
 
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=117959997&redirect=true"> <img align="right" width="185" src="https://spotify-github-profile.vercel.app/api/view?uid=117959997&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=ff9300&bar_color_cover=true"/> </a>
+<a href="[https://spotify-github-profile.vercel.app/api/view?uid=117959997&redirect=true](https://spotify-github-profile.vercel.app/api/view.svg?uid=117959997&redirect=true)"> <img align="right" width="185" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=117959997&cover_image=true&theme=default&show_offline=false&background_color=ff9300&interchange=true&bar_color=ff9300&bar_color_cover=true"/> </a>
 
 <h2 align="center">Skills</h2>
+
+<br clear="left">
+
 <p align="center">
   <a href="[https://github.com/G1-R0](https://github.com/G1-R0?tab=repositories)">
     <img src="https://skillicons.dev/icons?i=idea,vscode,js,ts,cs,java,react,spring,css,html" />
@@ -47,8 +50,8 @@ class Person {
 <br clear="right">
 
 <div align="center" width="100%">
-  <img src="https://github-readme-stats.vercel.app/api?username=G1-R0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=G1-R0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=G1-R0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="175" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=G1-R0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="175" alt="languages graph"  />
 </div>
 
 
