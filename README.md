@@ -1,7 +1,7 @@
 
 <h2 align="right"><a href="https://github.com/G1-R0">Gilles Rousseaux</a></h2>
 
-<a href="https://github.com/G1-R0"><img align="right" width="185" src="https://github.com/G1-R0/G1-R0/blob/master/user.gif" /></a>
+<a href="https://github.com/G1-R0"><img align="right" width="170" src="https://github.com/G1-R0/G1-R0/blob/master/user.gif" /></a>
 
 
 ```JavaScript
@@ -37,7 +37,7 @@ class Person {
 
 ```
 
-<a href="[https://spotify-github-profile.vercel.app/api/view?uid=117959997&redirect=true](https://spotify-github-profile.vercel.app/api/view.svg?uid=117959997&redirect=true)"> <img align="right" width="185" src="https://spotify-github-profile.vercel.app/api/view?uid=117959997&cover_image=true&theme=default&show_offline=false&background_color=282a36&interchange=false&bar_color=ff6e96"/> </a>
+<a href="[https://spotify-github-profile.vercel.app/api/view?uid=117959997&redirect=true](https://spotify-github-profile.vercel.app/api/view.svg?uid=117959997&redirect=true)"> <img align="right" width="" src="https://spotify-github-profile.vercel.app/api/view?uid=117959997&cover_image=true&theme=default&show_offline=false&background_color=282a36&interchange=false&bar_color=ff6e96"/> </a>
 
 <h2 align="center">Skills</h2>
 
