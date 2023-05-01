@@ -41,10 +41,14 @@ class Person {
   <img height="193" src="https://github-readme-stats.vercel.app/api/top-langs?username=G1-R0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="languages graph"  /></a>
 </div>
 
-<img align="center" alt="viewCounter" src="https://profile-counter.glitch.me/g1-r0/count.svg?"  /> 
-
 <picture >
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/G1-R0/G1-R0/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/G1-R0/G1-R0/output/github-contribution-grid-snake.svg">
   <img picture align="center" width="100%" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/G1-R0/G1-R0/output/github-contribution-grid-snake.svg">
 </picture>
+
+  <div align="right">
+  <br>
+  <img alt="viewCounter" src="https://profile-counter.glitch.me/g1-r0/count.svg?"  /> 
+  <br>
+</div>
