@@ -41,7 +41,7 @@ class Person {
 
 <br clear="left">
 
-<img align="left" width="75%" src="https://skillicons.dev/icons?i=idea,vscode,js,ts,cs,java,react,spring,css,html,bootstrap,git,docker,figma,discord,firebase,github,gitlab,grafana, heroku,linkedin,linux,mongodb,nextjs,php,postman,postgres" href="[https://github.com/G1-R0](https://github.com/G1-R0?tab=repositories)"/>
+<img align="left" width="74%" src="https://skillicons.dev/icons?i=idea,vscode,js,ts,cs,java,react,spring,css,html,bootstrap,git,docker,figma,discord,firebase,github,gitlab,grafana, heroku,linkedin,linux,mongodb,nextjs,php,postman,postgres" href="[https://github.com/G1-R0](https://github.com/G1-R0?tab=repositories)"/>
 
 <br clear="right">
 
