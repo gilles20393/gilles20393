@@ -1,5 +1,5 @@
-<h2  align="right" ><a href="https://github.com/gilles20393">Gilles20393</a></h2>
-<img align="right" width="135" src="https://github.com/gilles20393/gilles20393/blob/master/user.gif" />
+<h2  align="right" ><a href="https://github.com/G1-R0">Gilles Rousseaux</a></h2>
+<img align="right" width="185" src="https://github.com/G1-R0/G1-R0/blob/master/user.gif" />
   
 ```JavaScript
 
@@ -34,11 +34,11 @@ class Person {
 
 ```
 
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=117959997&redirect=true"> <img align="right" width="135" src="https://spotify-github-profile.vercel.app/api/view?uid=117959997&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=ff9300&bar_color_cover=true"/> </a>
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=117959997&redirect=true"> <img align="right" width="185" src="https://spotify-github-profile.vercel.app/api/view?uid=117959997&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=ff9300&bar_color_cover=true"/> </a>
 
 <h2 align="center">Skills </h2>
 <p align="center">
-  <a href="https://github.com/gilles20393">
+  <a href="https://github.com/G1-R0">
     <img src="https://skillicons.dev/icons?i=idea,vscode,js,ts,cs,java,react,spring,css,html" />
   </a>
 </p>
@@ -49,9 +49,10 @@ class Person {
 </div>
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gilles20393/gilles20393/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gilles20393/gilles20393/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gilles20393/gilles20393/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/G1-R0/G1-R0/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/G1-R0/G1-R0/output/github-contribution-grid-snake.svg">
+  <img picture align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/G1-R0/G1-R0/output/github-contribution-grid-snake.svg">
 </picture>
 
-![gitartwork](gitartwork.svg)
+[![G1-R0/gitartwork](gitartwork.svg)](https://github.com/G1-R0/gitartwork)
+
