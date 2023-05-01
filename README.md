@@ -2,35 +2,36 @@
 <img align="right" width="135" src="https://github.com/gilles20393/gilles20393/blob/master/user.gif" />
   
 ```JavaScript
-class Attributes {
 
-  static contact() {
-    const discord = "gilles#8706";
+class Person {
+  static Contact() {
     const email = "gilles@rousseaux.dev";
+    const discord = "gilles#8706";
 
-    return [discord, email];
+    return { email, discord };
   }
 
   static life() {
-    const langs = ["English", "Dutch", "French"];
-    const nationalities = langs.filter((lang) => lang !== "English" && lang !== "Dutch").concat("Belgium");
+    const languages = ["English", "Dutch", "French"];
+    const nationalities = spokenLanguages.filter(lang => lang !== "English" && lang !== "Dutch").concat("Belgium");
     const age = 27;
 
-    return [langs, nationalities, age];
+    return { spokenLanguages, nationalities, age };
   }
 
   static coding() {
-    const langs = {
+    const sources = {
       expert: ["JavaScript"],
       intermediate: ["Java"],
       learning: ["C#", "Python"]
     };
-    const specialities = ["Fullstack"];
+    const specialities = ["Full-stack"];
     const environnement = ["VSCode", "IntelliJ"];
 
-    return [langs, specialities, environnement];
+    return { programmingLanguages, programmingSpecialities, preferredIDEs };
   }
 }
+
 ```
 
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=117959997&redirect=true"> <img align="right" width="135" src="https://spotify-github-profile.vercel.app/api/view?uid=117959997&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=ff9300&bar_color_cover=true"/> </a>
