@@ -40,8 +40,8 @@ class Person {
 
 
 <div align="left" width="83%">
-  <a href="https://github.com/G1-R0?tab=repositories"><img height="180" src="https://github-readme-stats.vercel.app/api?username=G1-R0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="stats graph"  />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=G1-R0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="languages graph"  /></a>
+  <a href="https://github.com/G1-R0?tab=repositories"><img height="190" src="https://github-readme-stats.vercel.app/api?username=G1-R0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="stats graph"  />
+  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs?username=G1-R0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="languages graph"  /></a>
 </div>
 
 
