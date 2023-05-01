@@ -16,5 +16,4 @@
             # Text on contribution graph 
             text: HIRE ME
        - uses: jasineri/simple-push-action@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GHMD_TOKEN }}
+       
