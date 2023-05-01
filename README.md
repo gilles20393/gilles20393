@@ -46,9 +46,3 @@ class Person {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/G1-R0/G1-R0/output/github-contribution-grid-snake.svg">
   <img picture align="center" width="100%" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/G1-R0/G1-R0/output/github-contribution-grid-snake.svg">
 </picture>
-
-  <div align="right">
-  <br>
-  <img alt="viewCounter" src="https://profile-counter.glitch.me/g1-r0/count.svg?"  /> 
-  <br>
-</div>
