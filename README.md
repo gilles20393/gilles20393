@@ -41,9 +41,9 @@ class Person {
 
 <br clear="left">
 
-<div align="left" width="75%">
+<div >
   <a href="[https://github.com/G1-R0](https://github.com/G1-R0?tab=repositories)">
-    <img src="https://skillicons.dev/icons?i=idea,vscode,js,ts,cs,java,react,spring,css,html,bootstrap,git,docker,figma,discord,firebase,github,gitlab,grafana, heroku,linkedin,linux,mongodb,nextjs,php,postman,postgres" />
+    <img align="left" width="75%" src="https://skillicons.dev/icons?i=idea,vscode,js,ts,cs,java,react,spring,css,html,bootstrap,git,docker,figma,discord,firebase,github,gitlab,grafana, heroku,linkedin,linux,mongodb,nextjs,php,postman,postgres" />
   </a>
 </div>
 
