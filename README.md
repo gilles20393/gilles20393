@@ -1,8 +1,5 @@
-
 <h2 align="right"><a href="https://github.com/G1-R0">Gilles Rousseaux</a></h2>
-
 <a href="https://github.com/G1-R0"><img align="right" width="165" src="https://github.com/G1-R0/G1-R0/blob/master/user.gif" /></a>
-
 
 ```JavaScript
 
@@ -37,19 +34,19 @@ class Person {
 
 ```
 
-<img align="right" width="165" href="https://spotify-github-profile.vercel.app/api/view?uid=117959997&redirect=true" src="https://spotify-github-profile.vercel.app/api/view?uid=117959997&cover_image=true&theme=default&show_offline=false&background_color=282a36&interchange=false&bar_color=ff6e96"/>
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=117959997&redirect=true"><img align="right" width="165" src="https://spotify-github-profile.vercel.app/api/view?uid=117959997&cover_image=true&theme=default&show_offline=false&background_color=282a36&interchange=false&bar_color=ff6e96"/></a>
 
 <h2 align="center">Skills</h2>
 
 <br clear="left">
 
-<img align="center" width="75%" src="https://skillicons.dev/icons?i=idea,vscode,js,ts,cs,java,react,spring,css,html,bootstrap,git,docker,figma,discord,firebase,github,gitlab,grafana, heroku,linkedin,linux,mongodb,nextjs,php,postman,postgres" href="https://github.com/G1-R0?tab=repositories"/>
+<a href="https://github.com/G1-R0?tab=repositories"><img align="center" width="75%" src="https://skillicons.dev/icons?i=idea,vscode,js,ts,cs,java,react,spring,css,html,bootstrap,git,docker,figma,discord,firebase,github,gitlab,grafana, heroku,linkedin,linux,mongodb,nextjs,php,postman,postgres" /></a>
 
 <br clear="right">
 
 <div align="right" width="100%">
-  <img src="https://github-readme-stats.vercel.app/api?username=G1-R0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="190" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=G1-R0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="190" alt="languages graph"  />
+  <a href="https://github.com/G1-R0?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=G1-R0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="190" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=G1-R0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="190" alt="languages graph"  /></a>
 </div>
 
 <br clear="both">
