@@ -1,6 +1,8 @@
+<a href="https://github.com/G1-R0"><h1 align="center">Hello world!</h1></a>
 <h2  align="right" ><a href="https://github.com/G1-R0">Gilles Rousseaux</a></h2>
-<img align="right" width="185" src="https://github.com/G1-R0/G1-R0/blob/master/user.gif" />
-  
+<a href="https://github.com/G1-R0"><img align="right" width="185" src="https://github.com/G1-R0/G1-R0/blob/master/user.gif" /></a>
+
+
 ```JavaScript
 
 class Person {
@@ -36,23 +38,24 @@ class Person {
 
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=117959997&redirect=true"> <img align="right" width="185" src="https://spotify-github-profile.vercel.app/api/view?uid=117959997&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=ff9300&bar_color_cover=true"/> </a>
 
-<h2 align="center">Skills </h2>
+
+<h2 align="center">Skills</h2>
 <p align="center">
-  <a href="https://github.com/G1-R0">
+  <a href="[https://github.com/G1-R0](https://github.com/G1-R0?tab=repositories)">
     <img src="https://skillicons.dev/icons?i=idea,vscode,js,ts,cs,java,react,spring,css,html" />
   </a>
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gilles20393&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gilles20393&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div align="center" style="display: flex;">
+  <img src="https://github-readme-stats.vercel.app/api?username=G1-R0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" width="50%" alt="stats graph" style="height: 100%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=G1-R0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" width="50%" alt="languages graph" style="height: 100%;" />
 </div>
+
+
+<br clear="both">
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/G1-R0/G1-R0/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/G1-R0/G1-R0/output/github-contribution-grid-snake.svg">
   <img picture align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/G1-R0/G1-R0/output/github-contribution-grid-snake.svg">
 </picture>
-
-[![G1-R0/gitartwork](gitartwork.svg)](https://github.com/G1-R0/gitartwork)
-
