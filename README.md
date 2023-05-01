@@ -51,4 +51,4 @@ class Person {
 
 ###
 
-<img align="center" src="https://raw.githubusercontent.com/gilles20393/gilles20393/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/gilles20393/gilles20393/blob/output/github-contribution-grid-snake.gif)
