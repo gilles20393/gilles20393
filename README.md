@@ -16,7 +16,7 @@ class Person {
 
   static life() {
     const languages = ["English", "Dutch", "French"];
-    const nationalities = spokenLanguages.filter(lang => lang !== "English" && lang !== "Dutch").concat("Belgium");
+    const nationalities = spokenLanguages.filter(lang => lang !== "English" && lang !== "Dutch").concat("Belgian");
     const age = 27;
 
     return { spokenLanguages, nationalities, age };
