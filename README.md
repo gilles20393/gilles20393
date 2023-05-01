@@ -1,6 +1,8 @@
 
 <a href="https://github.com/G1-R0"><img align="right" width="15%" src="https://img.shields.io/badge/G1--R0-Gilles%20Roussseaux-orange" /></a>
----
+<img align="center" src="https://profile-counter.glitch.me/g1-r0/count.svg?"  />
+
+
 <a href="https://github.com/G1-R0"><img align="right" width="15%" src="https://github.com/G1-R0/G1-R0/blob/master/user.gif" /></a>
 
 ```JavaScript
