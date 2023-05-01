@@ -1,7 +1,6 @@
 
 <a href="https://github.com/G1-R0"><img align="right" width="15%" src="https://img.shields.io/badge/G1--R0-Gilles%20Roussseaux-orange" /></a>
-<img align="center" src="https://profile-counter.glitch.me/g1-r0/count.svg?"  />
-
+<img align="center" alt="viewCounter" src="https://profile-counter.glitch.me/g1-r0/count.svg?"  /> 
 
 <a href="https://github.com/G1-R0"><img align="right" width="15%" src="https://github.com/G1-R0/G1-R0/blob/master/user.gif" /></a>
 
@@ -36,17 +35,12 @@ class Person {
 <h2 align="center">Skills</h2>
 
 <br clear="left">
-
 <a href="https://github.com/G1-R0?tab=repositories"><img align="center" width="80%" src="https://skillicons.dev/icons?i=idea,vscode,js,ts,cs,java,react,spring,css,html,bootstrap,git,docker,figma,discord,firebase,github,gitlab,grafana, heroku,linkedin,linux,mongodb,nextjs,php,postman,postgres" /></a>
-
-
 
 <div align="center" width="83%">
   <a href="https://github.com/G1-R0?tab=repositories"><img height="193" src="https://github-readme-stats.vercel.app/api?username=G1-R0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="stats graph"  />
   <img height="193" src="https://github-readme-stats.vercel.app/api/top-langs?username=G1-R0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="languages graph"  /></a>
 </div>
-
-
 
 <picture >
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/G1-R0/G1-R0/output/github-contribution-grid-snake-dark.svg">
