@@ -1,10 +1,5 @@
-
-<div align="right">
-  <h2 align="right" ><a href="https://github.com/gilles20393">Gilles20393</a></h2>
-  <img align="right" width="130" src="https://github.com/gilles20393/gilles20393/blob/master/user.gif" />
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=117959997&count=50&width=375" alt="Spotify recently played"  />
-</div>
-
+<h2  align="right" ><a href="https://github.com/gilles20393">Gilles20393</a></h2>
+<img align="right" width="130" src="https://github.com/gilles20393/gilles20393/blob/master/user.gif" />
 
 ```JavaScript
 class Attributes {
@@ -37,7 +32,7 @@ class Attributes {
   }
 }
 ```
-
+<img align="right" width="130" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=117959997&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" href="https://spotify-github-profile.vercel.app/api/view.svg?uid=117959997&redirect=true" />
 <h2 align="center">Skills </h2>
 
 <p align="center">
@@ -50,19 +45,8 @@ class Attributes {
   <img src="https://github-readme-stats.vercel.app/api?username=gilles20393&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gilles20393&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
 <br clear="both">
 
+###
+
 <img src="https://raw.githubusercontent.com/gilles20393/gilles20393/output/snake.svg" alt="Snake animation" />
-
-###
-
-
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-
