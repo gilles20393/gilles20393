@@ -34,7 +34,7 @@ class Person {
 <h2 align="center">Skills</h2>
 <br clear="left">
 
-<a href="https://github.com/G1-R0?tab=repositories"><img align="center" width="84%" src="https://skillicons.dev/icons?i=idea,vscode,js,ts,cs,java,react,spring,css,html,bootstrap,git,docker,figma,discord,firebase,github,gitlab,grafana, heroku,linkedin,linux,mongodb,nextjs,php,postman,postgres" /></a>
+<a href="https://github.com/G1-R0?tab=repositories"><img align="center" width="83%" src="https://skillicons.dev/icons?i=idea,vscode,js,ts,cs,java,react,spring,css,html,bootstrap,git,docker,figma,discord,firebase,github,gitlab,grafana, heroku,linkedin,linux,mongodb,nextjs,php,postman,postgres" /></a>
 
 <div align="center" width="100%">
   <a href="https://github.com/G1-R0?tab=repositories">
