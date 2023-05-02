@@ -36,10 +36,10 @@ class Person {
 
 <a href="https://github.com/G1-R0?tab=repositories"><img align="center" width="80%" src="https://skillicons.dev/icons?i=idea,vscode,js,ts,cs,java,react,spring,css,html,bootstrap,git,docker,figma,discord,firebase,github,gitlab,grafana, heroku,linkedin,linux,mongodb,nextjs,php,postman,postgres" /></a>
 
-<div align="center" width="83%">
+<div align="center" width="100%">
   <a href="https://github.com/G1-R0?tab=repositories">
-    <img height="194" src="https://github-readme-stats.vercel.app/api/top-langs?username=G1-R0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=transparent&hide_border=true" alt="languages graph"  />
-    <img height="194" src="https://github-readme-stats.vercel.app/api?username=G1-R0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=true" alt="stats graph"  />
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=G1-R0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=transparent&hide_border=true" alt="languages graph"  />
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=G1-R0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=true" alt="stats graph"  />
   </a>
 </div>
 
