@@ -31,7 +31,7 @@ class Person {
 
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=117959997&redirect=true"><img width="15%" align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=117959997&cover_image=true&theme=default&show_offline=false&background_color=282a36&interchange=false&bar_color=ff6e96"/></a>
 
-<h2 align="center">Skills</h2>
+<h2 align="center"><a href="">Skills</a></h2>
 <br clear="left">
 
 <a href="https://github.com/G1-R0?tab=repositories"><img align="center" width="82.5%" src="https://skillicons.dev/icons?i=idea,vscode,js,ts,cs,java,react,spring,css,html,bootstrap,git,docker,figma,discord,firebase,github,gitlab,grafana, heroku,linkedin,linux,mongodb,nextjs,php,postman,postgres" /></a>
