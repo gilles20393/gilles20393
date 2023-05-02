@@ -43,7 +43,7 @@ class Person {
   </a>
 </div>
 
-<picture >
+<picture align="center" width="100%">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/G1-R0/G1-R0/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/G1-R0/G1-R0/output/github-contribution-grid-snake.svg">
   <img picture align="center" width="100%" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/G1-R0/G1-R0/output/github-contribution-grid-snake.svg">
