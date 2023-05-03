@@ -1,5 +1,5 @@
 
-<a href="https://github.com/G1-R0"><img align="right" width="15%" src="https://img.shields.io/badge/G1--R0-Gilles%20Rousseaux-%23F09B28" /></a>
+<a href="https://github.com/G1-R0"><img align="right" width="15%" src="https://img.shields.io/badge/G1--R0-Gilles%20Rousseaux-%23CDA055" /></a>
 ---
 <a href="https://github.com/G1-R0"><img align="right" width="15%" src="https://github.com/G1-R0/G1-R0/blob/master/user.gif" /></a>
 
