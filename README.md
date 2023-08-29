@@ -1,7 +1,7 @@
 
 <a href="https://github.com/gllsrssx/cv"><img align="right" width="15%" src="https://img.shields.io/badge/gllsrssx-Gilles%20Rousseaux-%23CDA055" /></a>
 ---
-<a href="https://github.com/G1-R0"><img align="right" width="15%" src="https://github.com/G1-R0/G1-R0/blob/master/user.gif" /></a>
+<a href="https://github.com/gllsrssx"><img align="right" width="15%" src="https://github.com/gllsrssx/gllsrssx/blob/master/user.gif" /></a>
 
 ```JavaScript
 class Person {
@@ -34,17 +34,17 @@ class Person {
 <h2 align="center"><a href="">Skills</a></h2>
 <br clear="left">
 
-<a href="https://github.com/G1-R0?tab=repositories"><img align="center" width="82.5%" src="https://skillicons.dev/icons?i=idea,vscode,js,ts,cs,java,react,spring,css,html,bootstrap,git,docker,figma,discord,firebase,github,gitlab,grafana, heroku,linkedin,linux,mongodb,nextjs,php,postman,postgres" /></a>
+<a href="https://github.com/gllsrssx?tab=repositories"><img align="center" width="82.5%" src="https://skillicons.dev/icons?i=idea,vscode,js,ts,cs,java,react,spring,css,html,bootstrap,git,docker,figma,discord,firebase,github,gitlab,grafana, heroku,linkedin,linux,mongodb,nextjs,php,postman,postgres" /></a>
 
 <div align="center" width="100%">
-  <a href="https://github.com/G1-R0?tab=repositories">
-    <img height="194" src="https://github-readme-stats.vercel.app/api/top-langs?username=G1-R0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=transparent&hide_border=false" alt="languages graph"  />
-    <img height="194" src="https://github-readme-stats.vercel.app/api?username=G1-R0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false" alt="stats graph"  />
+  <a href="https://github.com/gllsrssx?tab=repositories">
+    <img height="194" src="https://github-readme-stats.vercel.app/api/top-langs?username=gllsrssx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=transparent&hide_border=false" alt="languages graph"  />
+    <img height="194" src="https://github-readme-stats.vercel.app/api?username=gllsrssx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false" alt="stats graph"  />
   </a>
 </div>
 
 <picture align="center" width="100%">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/G1-R0/G1-R0/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/G1-R0/G1-R0/output/github-contribution-grid-snake.svg">
-  <img picture align="center" width="100%" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/G1-R0/G1-R0/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gllsrssx/gllsrssx/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gllsrssx/gllsrssx/output/github-contribution-grid-snake.svg">
+  <img picture align="center" width="100%" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gllsrssx/gllsrssx/output/github-contribution-grid-snake.svg">
 </picture>
