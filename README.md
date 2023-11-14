@@ -6,8 +6,8 @@
 ```JavaScript
 class Person {
   static Contact() {
-    const email = "gilles@rousseaux.dev";
-    const discord = "gilles#8706";
+    const email = "glls@rssx.eu";
+    const phone = "0032473117171";
     return { email, discord };
   }
   static life() {
@@ -18,8 +18,8 @@ class Person {
   }
   static coding() {
     const sources = {
-      expert: ["JavaScript"],
-      intermediate: ["Java"],
+      expert: ["Java"],
+      intermediate: ["JavaScript"],
       learning: ["C#", "Python"]
     };
     const specialities = ["Full-stack"];
