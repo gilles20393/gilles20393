@@ -6,7 +6,7 @@
 ```JavaScript
 class Person {
   static Contact() {
-    const email = "glls@rssx.eu";
+    const email = "glls@rssx.be";
     const phone = "0032473117171";
     return { email, discord };
   }
@@ -18,12 +18,12 @@ class Person {
   }
   static coding() {
     const sources = {
-      expert: ["Java"],
-      intermediate: ["JavaScript"],
-      learning: ["C#", "Python"]
+      expert: ["Java", "MQL5", "JavaScript"],
+      intermediate: ["Python"],
+      learning: ["C#"]
     };
     const specialities = ["Full-stack"];
-    const environnement = ["VSCode", "IntelliJ"];
+    const environnement = ["VSCode"];
     return { programmingLanguages, programmingSpecialities, preferredIDEs };
   }
 }
