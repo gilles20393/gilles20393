@@ -1,7 +1,7 @@
-# Gilles Rousseaux - Full Stack Developer
+# <a href="https://github.com/gllsrssx/cv"><img align="left" width="25.5%" src="https://img.shields.io/badge/gllsrssx-Gilles%20Rousseaux-%23CDA055" /></a> - Full Stack Developer
 
-<p align="center">
-<!--   <img src="user.gif" alt="Profile Picture"> -->
+<p align="left">
+<a href="https://github.com/gllsrssx"><img align="center" width="25%" src="https://github.com/gllsrssx/gllsrssx/blob/master/user.gif" /></a>
 </p>
 
 ## 👋 About Me
