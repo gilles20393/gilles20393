@@ -61,6 +61,12 @@ Hello! I'm Gilles, a passionate Full Stack Developer. I have a strong foundation
     <img height="194" src="https://github-readme-stats.vercel.app/api?username=gllsrssx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false" alt="stats graph" style="max-width:49%;" />
   </a>
 </div>
+<picture align="center" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gllsrssx/gllsrssx/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gllsrssx/gllsrssx/output/github-contribution-grid-snake.svg">
+  <img picture align="center" width="100%" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gllsrssx/gllsrssx/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 
 ## 🎵 Currently Playing
