@@ -27,6 +27,7 @@ Hello! I'm Gilles, a passionate Full Stack Developer. I have a strong foundation
 
 ★★☆☆☆ Français
 
+
 ## 🛠️ Skills
 
 ★★★★☆ Full Stack Development
@@ -63,8 +64,8 @@ Hello! I'm Gilles, a passionate Full Stack Developer. I have a strong foundation
 
 <div align="center" width="100%">
   <a href="https://github.com/gllsrssx?tab=repositories">
-    <img height="194" src="https://github-readme-stats.vercel.app/api/top-langs?username=gllsrssx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=transparent&hide_border=false" alt="languages graph" style="max-width:49%;" />
-    <img height="194" src="https://github-readme-stats.vercel.app/api?username=gllsrssx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false" alt="stats graph" style="max-width:49%;" />
+    <img height="230" src="https://github-readme-stats.vercel.app/api/top-langs?username=gllsrssx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=transparent&hide_border=false" alt="languages graph" style="max-width:50%;" />
+    <img height="230" src="https://github-readme-stats.vercel.app/api?username=gllsrssx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false" alt="stats graph" style="max-width:50%;" />
   </a>
 </div>
 <picture align="center" width="100%">
@@ -73,16 +74,14 @@ Hello! I'm Gilles, a passionate Full Stack Developer. I have a strong foundation
   <img picture align="center" width="100%" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gllsrssx/gllsrssx/output/github-contribution-grid-snake.svg">
 </picture>
 
-
-
 ## 🎵 Currently Playing
 
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=117959997&redirect=true"><img width="15%" align="center" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=117959997&cover_image=true&theme=default&show_offline=false&background_color=f09b2b&interchange=true&bar_color=2982ff"/></a>
 
 ## 🎉 Fun Facts
 
-- I love to travel and explore new cultures.
-- In my free time, I enjoy gaming and watching Netflix.
-- I'm a foodie and love trying out new cuisines.
+- Each destination is a new chapter, enriching the narrative of my adventures.
+- The way to a man’s heart is through his stomach.
+- In the realm of pixels, I find my leisure.
 
 Thank you for visiting my profile! Feel free to follow me or star my repositories if you find them interesting!
