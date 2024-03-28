@@ -10,31 +10,37 @@ Hello! I'm Gilles, a passionate Full Stack Developer. I have a strong foundation
 
 ## 📫 How to reach me
 
-- Cell: +32473117171
-- Email: glls@rssx.be
-- LinkedIn: LinkedIn Profile
-- GitHub: GitHub Profile
-- Spotify: Spotify Profile
-- Discord: Discord Profile
-- Whatsapp: Whatsapp Profile
+[<img width="5%" height="5%" src="https://cdn2.iconfinder.com/data/icons/apple-ios7-icons/118/phone_ios7_ios_7.png" />](tell:+32473117171)
+[<img width="5%" height="5%" src="https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Mail-1024.png" />](mailto:glls@rssx.be)
+[<img width="5%" height="5%" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />](https://www.linkedin.com/in/gillesrousseaux/)
+[<img width="5%" height="5%" src="https://cdn3.iconfinder.com/data/icons/social-media-2253/25/Group-128.png" />](https://github.com/gllsrssx)
+[<img width="5%" height="5%" src="https://cdn.icon-icons.com/icons2/3053/PNG/96/spotify_alt_macos_bigsur_icon_189704.png" />](https://open.spotify.com/user/117959997?si=c0abde1ef3b249fe)
+[<img width="5%" height="5%" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/discord_icon_130958.png" />](discordapp.com/users/246007764332052480)
+[<img width="5%" height="5%" src="https://cdn.icon-icons.com/icons2/1753/PNG/96/iconfinder-social-media-applications-23whatsapp-4102606_113811.png" />](https://wa.link/5aryzf)
+
 
 ## 🌐 Languages
 
-- Dutch: Native
-- English: Fluent
-- French: Intermediate
+★★★★★ Nederlands
 
-## 💻 Technical Skills
+★★★★☆ English
 
-- Expert: Java, MQL5, JavaScript
-- Intermediate: Python
-- Learning: C#
+★★☆☆☆ Français
 
-## 🛠️ Tools
+## 🛠️ Skills
 
-- IDE: VSCode
-- OS: MacO
-- Others: Docker, Miro
+★★★★☆ Full Stack Development
+
+★★★★★ Continuous Learning
+
+★★★★★ Problem Solving
+
+★★★★★ Project Management
+
+★★★★☆ Collaboration and Communication
+
+★★★★☆ Agile Methodologies
+
 
 ## 🏢 Work Experience
 
