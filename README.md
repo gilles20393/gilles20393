@@ -1,9 +1,9 @@
 # <a href="https://github.com/gllsrssx/cv"><img align="left" width="25.5%" src="https://img.shields.io/badge/gllsrssx-Gilles%20Rousseaux-%23CDA055" /></a> - Full Stack Developer
-
+<!--
 <p align="left">
 <a href="https://github.com/gllsrssx"><img align="center" width="25%" src="https://github.com/gllsrssx/gllsrssx/blob/master/user.gif" /></a>
-</p>
-
+</p> 
+-->
 ## 👋 About Me
 
 Hello! I'm Gilles, a passionate Full Stack Developer. I have a strong foundation in programming concepts and hands-on experience in developing software applications. I'm always excited about new technologies and love bringing programming projects to the next level!
