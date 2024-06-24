@@ -76,7 +76,8 @@ Hello! I'm Gilles, a passionate Full Stack Developer. I have a strong foundation
 
 ## 🎵 Currently Playing
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=117959997&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=117959997&redirect=true) [![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=000437.8ef6ac1f409e4d629f53a0b37904cbbe.1517)](https://github.com/rayriffy/apple-music-github-profile)
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=000437.8ef6ac1f409e4d629f53a0b37904cbbe.1517)](https://music.apple.com/profile/gllsrssx)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=117959997&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=117959997&redirect=true)
 
 ## 🎉 
 
