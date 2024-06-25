@@ -6,8 +6,6 @@
 </p> 
 -->
 
-##  curriculum vitae
-
 [curriculum vitae](https://github.com/gllsrssx/curriculum_vitae)
 
 ## 👋 About Me
