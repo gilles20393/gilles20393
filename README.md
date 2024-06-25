@@ -1,9 +1,15 @@
 # <a href="https://github.com/gllsrssx/cv"><img align="left" width="25.5%" src="https://img.shields.io/badge/Gilles%20Rousseaux-gllsrssx-%23CDA055" /></a> - Full Stack Developer
+
 <!--
 <p align="left">
 <a href="https://github.com/gllsrssx"><img align="center" width="25%" src="https://github.com/gllsrssx/gllsrssx/blob/master/user.gif" /></a>
 </p> 
 -->
+
+##  curriculum vitae
+
+[curriculum vitae](https://github.com/gllsrssx/curriculum_vitae)
+
 ## 👋 About Me
 
 Hello! I'm Gilles, a passionate Full Stack Developer. I have a strong foundation in programming concepts and hands-on experience in developing software applications. I'm always excited about new technologies and love bringing programming projects to the next level!
@@ -21,44 +27,13 @@ Hello! I'm Gilles, a passionate Full Stack Developer. I have a strong foundation
 
 ## 🌐 Languages
 
+★★★★★ English
+
 ★★★★★ Nederlands
 
-★★★★☆ English
+★★★☆☆ Français
 
-★★☆☆☆ Français
-
-
-## 🛠️ Skills
-
-★★★★☆ Full Stack Development
-
-★★★★★ Continuous Learning
-
-★★★★★ Problem Solving
-
-★★★★★ Project Management
-
-★★★★☆ Collaboration and Communication
-
-★★★★☆ Agile Methodologies
-
-
-## 🏢 Work Experience
-
-- **Developer**, Cubitec, November 2023 – Today
-- **Project leader**, Kanryo Solutions, June 2018 – March 2020
-- **Hospitality Industry**, Multiple, Years 2012-2018
-
-## 🎓 Education
-
-- **Full Stack Developer**, Thomas More, Antwerp, September 2022 – June 2024
-- **Full Stack Developer**, AP, Antwerp, March 2020 – August 2022
-- **Bio-ecological Construction**, Steinerschool, Lier, September 2014 – July 2018
-
-## 📚 Courses
-
-- **Multiple Career Paths and IT courses**, Codecademy, January 2023 – January 2024
-- **Basic Safety Certificate for Contractors (VCA)**, May 2017
+★☆☆☆☆ 普通话
 
 ## 📈 GitHub Stats
 
