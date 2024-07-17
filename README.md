@@ -1,4 +1,4 @@
-# <a href="https://github.com/gllsrssx/cv"><img align="left" width="25.5%" src="https://img.shields.io/badge/Gilles%20Rousseaux-gllsrssx-%23CDA055" /></a> - Full Stack Developer
+# <a href="https://rssx.be"><img align="left" width="25.5%" src="https://img.shields.io/badge/Gilles%20Rousseaux-gllsrssx-%23CDA055" /></a> - Full Stack Developer
 
 <!--
 <p align="left">
