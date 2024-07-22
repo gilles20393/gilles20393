@@ -3,7 +3,7 @@
 <a href="https://github.com/gllsrssx"><img align="center" width="25%" src="https://github.com/gllsrssx/gllsrssx/blob/master/user.gif" /></a>
 </p> 
 -->
-<div>
+<div justify-content="space-between" >
   <a align="left" href="https://rssx.be"><img align="left" width="25.5%" src="https://img.shields.io/badge/gllsrssx-Gilles%20Rousseaux-%23CDA055" /> </a> 
   <a align="right" href="https://rssx.be" style="text-decoration: none;">Portfolio </a>
 </div>
