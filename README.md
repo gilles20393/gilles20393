@@ -3,10 +3,13 @@
 <a href="https://github.com/gllsrssx"><img align="center" width="25%" src="https://github.com/gllsrssx/gllsrssx/blob/master/user.gif" /></a>
 </p> 
 -->
-<div justify-content="space-between" >
-  <a align="left" href="https://rssx.be"><img align="left" width="25.5%" src="https://img.shields.io/badge/gllsrssx-Gilles%20Rousseaux-%23CDA055" /> </a> 
-  <a align="right" href="https://rssx.be" style="text-decoration: none;">Portfolio </a>
+<div align="right">
+
+<a  href="https://rssx.be"><img align="left" width="25.5%" src="https://img.shields.io/badge/gllsrssx-Gilles%20Rousseaux-%23CDA055" /> </a> <a align="right" href="https://rssx.be"> Portfolio</a> 
+  
 </div>
+
+
 
 #
 
@@ -24,8 +27,13 @@
 
 #
 
-[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=000437.8ef6ac1f409e4d629f53a0b37904cbbe.1517)](https://music.apple.com/profile/gllsrssx)
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=117959997&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=117959997&redirect=true)
+<div>
+ <a href="https://music.apple.com/profile/gllsrssx">
+    <img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=000437.8ef6ac1f409e4d629f53a0b37904cbbe.1517" alt="Apple Music GitHub profile" height="500">
+  </a>
+  <a align="right" href="https://spotify-github-profile.kittinanx.com/api/view?uid=117959997&redirect=true">
+    <img align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=117959997&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" alt="Spotify GitHub profile" height="500">
+  </a>
+</div>
 
-# 
 
